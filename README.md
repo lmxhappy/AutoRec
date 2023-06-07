@@ -14,3 +14,4 @@ This is the Github repository implementation of the AutoRec model ([paper](https
 
 - `torch==1.12.1`
 - `torchdata==0.4.1`
+- `python==3.7`
